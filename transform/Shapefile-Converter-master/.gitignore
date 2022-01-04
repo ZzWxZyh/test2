@@ -1,0 +1,14 @@
+# Ignore the ipynb checkpoints
+.ipynb*checkpoints/
+
+# Ignore folder named `results`
+results/
+
+# Ignore folder named `PETA_V21`
+PETA_V21/
+
+# Ignore folder named `reference`
+reference/
+
+# Ignore file .tar.gz
+*.tar.gz
